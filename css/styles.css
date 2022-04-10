@@ -1,0 +1,15 @@
+h1{
+  color: rgb(255, 30, 0);
+  text-align: center;
+}
+h2{
+  color: rgb(255, 30, 0);
+}
+img{
+  height: 400px;
+  text-align: center;
+  width: 400px;
+}body{
+  text-align: center;
+  background-color: blueviolet;
+}
